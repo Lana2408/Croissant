@@ -1,0 +1,30 @@
+
+body {
+    margin: 30px 40px;
+}
+
+h1 {
+    text-align: center;
+}
+
+footer {
+text-align: center;
+
+
+}
+
+footer a {
+    margin: 0 10px;
+}
+
+.myphoto {
+    
+        max-width: 40%;
+        border-radius: 10px;
+        display: block;
+        margin: 30px auto;
+      
+}
+.p-contact {
+    text-align: center;
+}
